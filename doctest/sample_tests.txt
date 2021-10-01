@@ -1,0 +1,10 @@
+===============================
+Demonstrating usage of doctest
+===============================
+
+1. This doctest checks functionality of  python's plus operator.
+
+>>> 2 + 4
+6
+>>> -10.5 + 8
+-2.5

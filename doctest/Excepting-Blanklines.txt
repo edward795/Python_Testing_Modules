@@ -1,0 +1,11 @@
+3. This doctest checks functionality of insertlines function
+>>> def insertlines(n):
+...    print('Start')
+...    for i in range(n):
+...        print()
+...    print('End')
+>>> insertlines(2)
+Start
+<BLANKLINE>
+<BLANKLINE>
+End
